@@ -48,7 +48,7 @@ sur cet nouvelle image de Shelton.512 vous pouvez constater que il y'a eu une mo
 
 
 ### 3.afficher la taille d'une image
-#### traiter par  NGALEU YAMDJA GLORY 24G2640
+#### traiter par  Kamwa Gatcheussi Patrice Wilfried 24G2170
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -63,7 +63,7 @@ vous pouvez constater par vous meme quant inserant une image avec la commande si
 
 
 ### 4.decouper une partie de l'image
-#### traiter par 
+#### traiter par NDAOBA MOHAMAT 24G2687
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -88,7 +88,7 @@ sut cet image nous pouvaon voir que c'est avec un succes que le fichier a ete de
 l'image du resultat montre une imagerie couper de l'image Shelton.512
 
 ### 5.negatif d'une image
-#### traiter par
+#### traiter par NGALEU YAMDJA GLORY 24G2640
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -108,7 +108,7 @@ cet image un exemple d'essaie avec la comande neg
 nous devons avoue que le resultat de la negation de Shelton.512 est un success mais son resultat laisse a desirer.
 
 ### 6.filtre median
-#### traiter par
+#### traiter par  LEKANE KOUNLAG BRIAND DURRANDE  24H2288
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploie
