@@ -5,6 +5,13 @@ ce programme regroupe en sont sein plusieur fonction dans la manioulation des im
 
 NB: dans tou les fonction ci dessous il est demander a un utilisateur d'entrer de lui meme sont image.ppm a fin que celle ci soit traiter a ssa convenant. les parametre d'utilisation vous seron detailler
 
+## INSTRUCTION DE COMPILATION
+
+```bash
+gcc *c -o ppmviewer.exe
+./ppmviewer.exe
+```
+
 ### 1. foncer ou eclaisir un fichier.ppm
 #### traiter par YANKOUA MBAKOP YVES STEPHANE 24G2413
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
