@@ -13,7 +13,6 @@ gcc *c -o ppmviewer.exe
 ```
 
 ### 1. foncer ou eclaisir un fichier.ppm
-#### traiter par YANKOUA MBAKOP YVES STEPHANE 24G2413
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -35,7 +34,6 @@ sur cet image de Shelton.512 vous pouver constater que la valeur de val etant de
 
 
 ### 2.passer en noir et blanc (griser l'image)
-#### traiter par  TSAKOU TCHINDA GERBERT D'AURILLAC 24G2346
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -55,7 +53,6 @@ sur cet nouvelle image de Shelton.512 vous pouvez constater que il y'a eu une mo
 
 
 ### 3.afficher la taille d'une image
-#### traiter par  Kamwa Gatcheussi Patrice Wilfried 24G2170
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -70,7 +67,6 @@ vous pouvez constater par vous meme quant inserant une image avec la commande si
 
 
 ### 4.decouper une partie de l'image
-#### traiter par NDAOBA MOHAMAT 24G2687
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -95,7 +91,6 @@ sut cet image nous pouvaon voir que c'est avec un succes que le fichier a ete de
 l'image du resultat montre une imagerie couper de l'image Shelton.512
 
 ### 5.negatif d'une image
-#### traiter par NGALEU YAMDJA GLORY 24G2640
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploi
@@ -115,7 +110,6 @@ cet image un exemple d'essaie avec la comande neg
 nous devons avoue que le resultat de la negation de Shelton.512 est un success mais son resultat laisse a desirer.
 
 ### 6.filtre median
-#### traiter par  LEKANE KOUNLAG BRIAND DURRANDE  24H2288
 le taritement de cet fonction a ete d'une difficulter considerable surtout dans la detection des parametres de saisi des utilisateur et dans sont traitement
 
 ##### mode d'emploie
@@ -133,17 +127,6 @@ sur cet image les commande entrer son parfaite. maintenant ragadons le resultat
 ![capture resultat](capture_resultat/Capture%20d’écran%20du%202025-10-10%2013-35-16.png)
 
 faut avoue que ici aussi le resultat est bonne mais son ergonnaomie n'est pas presentable
-
-
-
-## MEMBRE. NOM ET MATRICULE
-
-- YANKOUA MBAKOP YVES STEPHANE   24G2413
-- NDAOBA MOHAMAT 24G2687
-- TSAKOU TCHINDA GERBERT D'AURILLAC 24G2346
-- Kamwa Gatcheussi Patrice Wilfried 24G2170
-- LEKANE KOUNLAG BRIAND DURRANDE  24H2288
-- NGALEU YAMDJA GLORY 24G2640
 
 ## Structure du projet
 - Un fichier source par fonctionnalité
