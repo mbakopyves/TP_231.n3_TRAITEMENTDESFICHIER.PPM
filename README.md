@@ -1,4 +1,4 @@
-# TP D'INF231 SUR LA MANIPULATION DES MATRICE DANS LE CONTEXTE DES IMAGES A EXTENSION .ppm
+# MANIPULATION DES MATRICE DANS LE CONTEXTE DES IMAGES A EXTENSION .ppm
 
 ## DESCRIPTION EN PREMIER VUE DU PROGRAMME
 ce programme regroupe en sont sein plusieur fonction dans la manioulation des image a extension .ppm
